@@ -2,7 +2,7 @@
 
 This project is a **Student Information System (SIS)** built using **PHP** and **MySQL**. It allows users to manage and store student information such as name, surname, personal code, course, email, and messages. 
 
-![screen](screenshot.png)
+![screen](screenshot2.png)
 
 ## Features
 
