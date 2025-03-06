@@ -1,6 +1,9 @@
 # Student Information System (PHP & MySQL Task)
 
 This project is a **Student Information System (SIS)** built using **PHP** and **MySQL**. It allows users to manage and store student information such as name, surname, personal code, course, email, and messages. 
+
+![screen](screenshot.png)
+
 ## Features
 
 - **Add students**: Add new students to the system with details such as name, surname, personal code, email, etc.
@@ -12,8 +15,6 @@ This project is a **Student Information System (SIS)** built using **PHP** and *
 - **PHP**: Server-side scripting language to handle form submissions and database interactions.
 - **MySQL**: Database management system to store student information.
 - **HTML/CSS**: For structuring and styling the web pages.
-
-![screen](screenshot.png)
 
 ---
 
